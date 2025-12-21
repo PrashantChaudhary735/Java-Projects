@@ -28,7 +28,6 @@ public class Basics {
 //        System.out.println(d);
 //        System.out.println();
 
-//        Strings in Java:
 
 
 
