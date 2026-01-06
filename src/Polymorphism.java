@@ -68,5 +68,6 @@ public class Polymorphism {
 //        cam1.getNetworks(); -- This is not allowed
             cam1.record4KVideo();
 
+
     }
 }
